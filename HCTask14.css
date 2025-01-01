@@ -1,0 +1,16 @@
+img{
+    height: 30px;
+    width: 30px;
+    border: 20px black solid;
+    border-width: 30px;
+    
+}
+@media (max-width:768px) {
+    img{
+        height: 300px;
+        width: 300px;
+        direction: rtl;
+        border: 20px 20px black solid;
+    
+    }
+}

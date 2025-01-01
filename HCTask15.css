@@ -1,0 +1,8 @@
+div{
+    height: 200px;
+    width: 400px;
+    background-color: blueviolet;
+    right: 55%;
+    align-items: center;
+    border-radius: 0px 0px 0px 20px;
+}

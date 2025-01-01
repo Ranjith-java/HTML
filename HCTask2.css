@@ -1,0 +1,21 @@
+*{
+    
+   margin: auto;
+   padding: auto;
+}
+body{
+    margin: 50px;
+    background-color: bisque;
+   letter-spacing: 2px;
+}
+img{
+    height: 75px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 20px;
+    border-color: black;
+    justify-self: center;
+    border-width: 2px;
+    border-style: dotted;
+    filter:grayscale();
+}
